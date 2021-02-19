@@ -20,11 +20,8 @@ hr{
 	margin:5px;
 }
 #boton{
-	width: 35%;
-	height: 7vh;
 	background-color: blue;	
 	color:white;
-	border-radius: 75%;
 }
 .boton{
 	text-align:center;
