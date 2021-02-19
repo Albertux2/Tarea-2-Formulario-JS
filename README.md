@@ -1,2 +1,1 @@
-# Tarea-2-Formulario-JS
- Tarea 2
+albertux2.github.io/Tarea-2-Formulario-JS/index.html
